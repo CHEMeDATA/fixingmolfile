@@ -39,9 +39,11 @@ The files are strored in input/separated_sdf folder with numbers starting at 1. 
 
 # Output
 
-[Edit](index3.html) first structure (now only displayed in JSME)
+[Edit](index3.html) first structure (currently only displayed in JSME)
 
 
 [Look](index2.html) at all structures 
+
+Project: click on the structure on the right to correct it.
 
 (interstingly does not work locally... problems with .svg files)
