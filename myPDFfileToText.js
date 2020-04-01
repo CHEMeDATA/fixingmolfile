@@ -1,5 +1,6 @@
 // This file is called myPDFfileToText.js and is in the root folder
-//// from vhttps://stackoverflow.com/questions/1554280/extract-text-from-pdf-in-javascript
+//// from https://stackoverflow.com/questions/1554280/extract-text-from-pdf-in-javascript
+// minor modif by D. Jeannerat
 //run with :
 //npm i pdfjs-dist
 //node myPDFfileToText.js > extractedText.txt

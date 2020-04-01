@@ -55,7 +55,9 @@ obabel input/allcompounds.sdf -otxt --title "" --append Page -O input/page-numbe
 
 The files are stored in `input/separated_sdf` folder with numbers starting at 1. (unlike images!)
 
-# Extraction of text:
+# Extraction of text
+
+From root:
 ```
 npm i pdfjs-dist
 node myPDFfileToText.js > extractedText.txt
