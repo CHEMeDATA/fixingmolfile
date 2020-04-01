@@ -1,5 +1,5 @@
 ## Extraction 
-Extraction of molecules from images or .pdf files is never perfect. This tool allows to visualize and edit (future work) the generated structures.
+Extraction of molecules from images or .pdf files is never perfect. This tool allows to visualize and edit (future work) the structures generated using [OSRA](https://cactus.nci.nih.gov/osra/).
 
 [Details](generation) about the extraction of the structures
 
