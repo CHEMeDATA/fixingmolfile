@@ -7,7 +7,9 @@ The structures were extracted from this [pdf](input/unige_5398_attachment01.pdf)
 ## Results 
 [Visualize](index2.html) all extracted structures (image rendering).
 
-Note: The later list does not work locally because of problems with .svg files.
+[Short list](index2_short.html) all extracted structures (image rendering).
+
+Note: The later lists do not work locally because of problems with .svg files.
 
 **Project: click on the structure on the right to edit it.**
 
