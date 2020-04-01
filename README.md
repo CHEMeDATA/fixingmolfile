@@ -1,7 +1,7 @@
 ## Extraction 
-Extraction of molecules from images or .pdf files is never perfect. This tool allows to visualize and edit (future work) the strucures generated.
+Extraction of molecules from images or .pdf files is never perfect. This tool allows to visualize and edit (future work) the generated structures.
 
-[Details](generation) about the extracion of the structures
+[Details](generation) about the extraction of the structures
 
 The structures were extracted from this [pdf](unige_5398_attachment01.pdf).
 ## Results 
