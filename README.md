@@ -37,7 +37,7 @@ obabel input/allcompounds.sdf -otxt --title "" --append Page -O input/page-numbe
 
 The files are strored in input/separated_sdf folder with numbers starting at 1. (unlike images!)
 
-[Edit](index.html) first structure
+[Edit](index3.html) first structure
 
 
-[Look](index.html) at all structures
+[Look](index2.html) at all structures
