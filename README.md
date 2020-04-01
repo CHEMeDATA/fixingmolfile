@@ -1,5 +1,7 @@
 Extraction of molecules from images or .pdf files is never perfect. This tool allows to visualize and edit (future work) the strucures generated.
 
+[on-line](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi) version of orca
+
 [Details](generation) about the extracion of the structures
 
 
