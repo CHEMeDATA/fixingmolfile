@@ -1,6 +1,6 @@
 Extraction of molecules from images or .pdf files is never perfect. This tool allows to visualize and edit (future work) the strucures generated.
 
-Extraction (outside the scope of the article).
+# Extraction (outside the scope of the article).
 
 The data in the input folder were generated from  
 
