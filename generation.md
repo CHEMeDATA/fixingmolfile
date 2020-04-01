@@ -1,6 +1,11 @@
 Extraction of molecules from images or .pdf files is never perfect. This tool allows to visualize and edit (future work) the strucures generated.
 
-# Extraction 
+# On line osra 
+
+[On-line](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi) version of osra.
+
+# local use of osra 
+
 (Details outside the scope of the page).
 
 The data in the input folder were generated from  
