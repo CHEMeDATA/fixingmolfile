@@ -28,7 +28,7 @@ obabel input/allcompounds.sdf -o png -O input/separated_png/strH.png -m -e -h
 Note: -h adds explicit Hydrogen.
 Note: -b black background.
 Note: -e continues after error.
-This extracs the tag indicating the page number in the pdf file.
+This extracs the tag indicating the page number in the [pdf](unige_5398_attachment01.pdf) file.
 
 obabel input/allcompounds.sdf -otxt --title "" --append Page -O input/page-number/in.txt
 
