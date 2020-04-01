@@ -3,7 +3,7 @@ Extraction of molecules from images or .pdf files is never perfect. This tool al
 
 [Details](generation) about the extraction of the structures
 
-The structures were extracted from this [pdf](unige_5398_attachment01.pdf).
+The structures were extracted from this [pdf](input/unige_5398_attachment01.pdf).
 ## Results 
 [Visualize](index2.html) all extracted structures (image rendering).
 
