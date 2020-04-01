@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<svg version="1.1" id="topsvg"
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200px" viewBox="0 0 100 100">
+<title> - Open Babel Depiction</title>
+<rect x="0" y="0" width="100" height="100" fill="white"/>
+<g transform="translate(0,0)">
+<svg width="100" height="100" x="0" y="0" viewBox="0 0 218.388 219.122"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="round">
+<line x1="77.2" y1="132.0" x2="77.6" y2="159.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="71.2" y1="132.1" x2="71.6" y2="159.2" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="159.1" x2="51.3" y2="172.6" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.2" y1="98.9" x2="85.3" y2="112.6" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.4" y1="59.2" x2="109.2" y2="98.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.2" y1="98.9" x2="143.5" y2="119.6" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="143.5" y1="119.6" x2="178.4" y2="99.7" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="178.4" y1="99.7" x2="178.4" y2="59.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="178.4" y1="59.1" x2="143.6" y2="40.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="143.6" y1="40.0" x2="109.4" y2="59.2" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="67.992468" y="127.036727" fill="rgb(12,12,255)"  stroke="rgb(12,12,255)" stroke-width="1" font-size="16" >N</text>
+<text x="14.000000" y="187.122229" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="16" >H</text>
+<text x="26.000000" y="190.802229" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="13" >3</text>
+<text x="32.500000" y="187.122229" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="16" >C</text>
+</svg>
+</g>
+<text font-size="18.000000" fill ="black" font-family="sans-serif"
+x="10.000000" y="20.000000" ></text>
+</svg>

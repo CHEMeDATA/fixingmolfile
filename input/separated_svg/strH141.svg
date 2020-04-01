@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<svg version="1.1" id="topsvg"
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200px" viewBox="0 0 100 100">
+<title> - Open Babel Depiction</title>
+<rect x="0" y="0" width="100" height="100" fill="white"/>
+<g transform="translate(0,0)">
+<svg width="100" height="100" x="0" y="0" viewBox="0 0 416.996 385.521"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="round">
+<line x1="211.7" y1="168.1" x2="210.8" y2="166.7" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
+<line x1="205.8" y1="172.8" x2="204.2" y2="170.4" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
+<line x1="199.9" y1="177.6" x2="197.6" y2="174.1" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
+<line x1="194.0" y1="182.3" x2="191.0" y2="177.8" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
+<line x1="188.1" y1="187.0" x2="184.3" y2="181.5" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
+<line x1="182.2" y1="191.8" x2="177.7" y2="185.2" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
+<line x1="108.5" y1="92.2" x2="114.3" y2="73.4" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="92.2" y1="100.8" x2="73.4" y2="94.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="100.8" y1="117.0" x2="94.9" y2="135.8" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="117.0" y1="108.5" x2="135.8" y2="114.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="229.5" y1="48.5" x2="178.3" y2="90.8" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="219.0" y1="162.1" x2="263.7" y2="186.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="180.9" y1="236.9" x2="205.2" y2="253.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="348.9" y1="287.0" x2="353.7" y2="250.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="304.4" y1="309.2" x2="347.4" y2="284.4" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="307.4" y1="314.4" x2="350.4" y2="289.6" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="263.7" y1="287.2" x2="205.2" y2="253.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="261.6" y1="290.8" x2="203.1" y2="256.6" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="265.9" y1="283.6" x2="207.3" y2="249.4" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="263.7" y1="287.2" x2="305.9" y2="311.8" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="266.7" y1="186.8" x2="267.0" y2="238.7" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="260.7" y1="186.9" x2="261.0" y2="238.7" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="178.4" y1="236.1" x2="160.4" y2="248.7" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="178.4" y1="236.1" x2="181.6" y2="257.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="136.8" y1="163.2" x2="118.9" y2="173.7" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="114.3" y1="73.4" x2="135.7" y2="68.5" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="114.3" y1="73.4" x2="99.4" y2="57.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="114.3" y1="73.4" x2="120.8" y2="52.4" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="73.4" y1="94.9" x2="68.5" y2="73.5" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="73.4" y1="94.9" x2="57.3" y2="109.8" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="73.4" y1="94.9" x2="52.4" y2="88.4" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="94.9" y1="135.8" x2="73.5" y2="140.7" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="94.9" y1="135.8" x2="109.8" y2="152.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="94.9" y1="135.8" x2="88.4" y2="156.8" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="221.4" y1="113.3" x2="239.4" y2="103.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="219.0" y1="162.1" x2="220.0" y2="184.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="180.9" y1="236.9" x2="167.9" y2="219.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="348.9" y1="287.0" x2="366.2" y2="298.5" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="305.9" y1="311.8" x2="305.8" y2="332.5" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="263.7" y1="186.9" x2="281.5" y2="176.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="264.0" y1="238.7" x2="246.2" y2="249.2" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="264.0" y1="238.7" x2="282.1" y2="248.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="178.4" y1="236.1" x2="180.9" y2="236.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="180.9" y1="236.9" x2="180.0" y2="188.5" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="180.0" y1="188.5" x2="178.4" y2="236.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="135.8" y1="114.3" x2="136.8" y2="163.2" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="143.1" y1="120.2" x2="143.9" y2="157.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="136.8" y1="163.2" x2="180.0" y2="188.5" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="180.0" y1="188.5" x2="219.0" y2="162.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="219.0" y1="162.1" x2="221.4" y2="113.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="221.4" y1="113.3" x2="178.3" y2="90.8" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="212.8" y1="116.9" x2="180.3" y2="99.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="178.3" y1="90.8" x2="135.8" y2="114.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="98.612751" y="112.613741" fill="rgb(127,153,153)"  stroke="rgb(127,153,153)" stroke-width="1" font-size="16" >Si</text>
+<text x="233.559425" y="48.259888" fill="rgb(17,127,178)"  stroke="rgb(17,127,178)" stroke-width="1" font-size="16" >Xx</text>
+<text x="349.341456" y="245.426289" fill="rgb(30,239,30)"  stroke="rgb(30,239,30)" stroke-width="1" font-size="16" >Cl</text>
+<text x="143.721966" y="264.105397" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="177.424955" y="278.724589" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="101.733169" y="188.313270" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="142.401745" y="73.672918" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="84.552469" y="55.726377" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="118.657826" y="48.000000" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="59.675185" y="68.820742" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="41.723120" y="126.668303" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="34.000000" y="92.562208" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="54.819752" y="151.551307" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="112.667313" y="169.503372" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="78.561218" y="177.226492" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="244.682672" y="104.556014" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="214.563697" y="205.072538" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="154.182070" y="216.782954" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="370.996001" y="313.675342" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="299.783242" y="353.521423" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="286.719647" y="177.637610" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="228.945844" y="263.732245" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="287.362739" y="263.363847" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+</svg>
+</g>
+<text font-size="18.000000" fill ="black" font-family="sans-serif"
+x="10.000000" y="20.000000" ></text>
+</svg>

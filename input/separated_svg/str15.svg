@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<svg version="1.1" id="topsvg"
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200px" viewBox="0 0 100 100">
+<title> - Open Babel Depiction</title>
+<rect x="0" y="0" width="100" height="100" fill="white"/>
+<g transform="translate(0,0)">
+<svg width="100" height="100" x="0" y="0" viewBox="0 0 163.213 303.454"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="round">
+<polygon points="82.2153 150.144 78.9971 102.015 86.9961 102.145 " stroke-width="2" fill="rgb(0,0,0)"  stroke="rgb(0,0,0)" />
+<line x1="83.0" y1="102.1" x2="89.1" y2="71.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="83.0" y1="102.1" x2="112.0" y2="85.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="51.4" y1="84.6" x2="83.0" y2="102.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="89.1" y1="71.0" x2="92.7" y2="52.8" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="85.0" y1="70.2" x2="88.5" y2="51.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="93.2" y1="71.8" x2="96.8" y2="53.6" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="91.4" y1="250.7" x2="119.8" y2="263.5" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="59.2" y1="217.0" x2="52.4" y2="199.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="59.2" y1="217.0" x2="97.6" y2="223.7" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="58.1" y1="185.6" x2="52.4" y2="199.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="87.8" y1="205.9" x2="97.6" y2="223.7" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="105.6" y1="213.8" x2="97.6" y2="223.7" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="119.8" y1="263.5" x2="97.6" y2="223.7" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.4" y1="174.0" x2="40.3" y2="221.8" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.3" y1="221.8" x2="91.4" y2="250.7" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="91.4" y1="250.7" x2="122.9" y2="222.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="122.9" y1="222.1" x2="122.0" y2="174.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="122.0" y1="174.1" x2="82.2" y2="150.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="82.2" y1="150.1" x2="40.4" y2="174.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="14.000000" y="86.346796" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="16" >H</text>
+<text x="26.000000" y="90.026796" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="13" >3</text>
+<text x="32.500000" y="86.346796" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="16" >C</text>
+<text x="89.168397" y="48.000000" fill="rgb(12,12,255)"  stroke="rgb(12,12,255)" stroke-width="1" font-size="16" >N</text>
+<text x="119.212832" y="86.764331" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="16" >CH</text>
+<text x="143.212832" y="90.444331" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="13" >3</text>
+<text x="58.992895" y="181.585903" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="16" >CH</text>
+<text x="82.992895" y="185.265903" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="13" >3</text>
+<text x="55.509940" y="202.472143" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="16" >H</text>
+<text x="67.509940" y="206.152143" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="13" >3</text>
+<text x="74.009940" y="202.472143" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="16" >C</text>
+<text x="109.694932" y="211.648424" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="16" >CH</text>
+<text x="133.694932" y="215.328424" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="13" >3</text>
+</svg>
+</g>
+<text font-size="18.000000" fill ="black" font-family="sans-serif"
+x="10.000000" y="20.000000" ></text>
+</svg>

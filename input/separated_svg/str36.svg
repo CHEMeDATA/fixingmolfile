@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<svg version="1.1" id="topsvg"
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200px" viewBox="0 0 100 100">
+<title> - Open Babel Depiction</title>
+<rect x="0" y="0" width="100" height="100" fill="white"/>
+<g transform="translate(0,0)">
+<svg width="100" height="100" x="0" y="0" viewBox="0 0 149.746 199.004"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="round">
+<line x1="74.8" y1="53.0" x2="74.8" y2="79.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.2" y1="139.3" x2="40.0" y2="98.5" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="47.4" y1="133.2" x2="47.2" y2="104.5" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="98.5" x2="74.8" y2="79.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.8" y1="79.0" x2="109.7" y2="98.6" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="76.5" y1="88.2" x2="101.0" y2="102.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.7" y1="98.6" x2="109.6" y2="138.8" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.6" y1="138.8" x2="74.7" y2="159.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="100.8" y1="135.6" x2="76.3" y2="149.8" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.7" y1="159.0" x2="40.2" y2="139.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="68.873120" y="48.000000" fill="rgb(17,127,178)"  stroke="rgb(17,127,178)" stroke-width="1" font-size="16" >Xx</text>
+</svg>
+</g>
+<text font-size="18.000000" fill ="black" font-family="sans-serif"
+x="10.000000" y="20.000000" ></text>
+</svg>

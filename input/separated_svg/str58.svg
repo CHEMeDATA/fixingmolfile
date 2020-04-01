@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<svg version="1.1" id="topsvg"
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200px" viewBox="0 0 100 100">
+<title> - Open Babel Depiction</title>
+<rect x="0" y="0" width="100" height="100" fill="white"/>
+<g transform="translate(0,0)">
+<svg width="100" height="100" x="0" y="0" viewBox="0 0 156.117 215.805"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="round">
+<line x1="77.7" y1="89.6" x2="84.9" y2="75.7" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="83.9" y1="53.2" x2="82.5" y2="50.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.4" y1="111.0" x2="77.7" y2="89.6" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="77.7" y1="89.6" x2="116.1" y2="110.8" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="79.5" y1="98.8" x2="107.4" y2="114.2" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="116.1" y1="110.8" x2="116.1" y2="155.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="116.1" y1="155.3" x2="77.9" y2="175.8" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="107.4" y1="151.8" x2="79.8" y2="166.6" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="77.9" y1="175.8" x2="40.0" y2="156.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="156.3" x2="40.4" y2="111.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="47.3" y1="150.4" x2="47.6" y2="117.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="84.918490" y="72.146292" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >O</text>
+<text x="49.466927" y="48.000000" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="16" >H</text>
+<text x="61.466927" y="51.680000" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="13" >3</text>
+<text x="67.966927" y="48.000000" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="16" >C</text>
+</svg>
+</g>
+<text font-size="18.000000" fill ="black" font-family="sans-serif"
+x="10.000000" y="20.000000" ></text>
+</svg>

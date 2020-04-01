@@ -1,0 +1,14 @@
+#!/bin/csh 
+set pa='/Volumes/san256/users_for_mac_system_macPro/jeannerat/Dropbox/keep_for_a_while/pour_julien_wist/kundig_thesis'
+echo $pa
+foreach toto (`ls $pa/*pdf`)
+echo "======="
+set fn=`echo $toto|rev|cut -d"/" -f 1|rev`
+echo $fn
+set fd=`echo $fn|sed s/.pdf//g`
+set fo=`echo $pa/$fd"_structures/images"`
+set f2=`echo $pa/$fd"_structures/"`
+mkdir -p $fo
+echo "Extracted molecules from file $fn using osra-2.1.0-1">$f2/readme.txt
+osra $toto -l /Volumes/san256/users_for_mac_system_macPro/jeannerat/mygit/osra/osra-2.1.0-1/dict/spelling.txt -a /Volumes/san256/users_for_mac_system_macPro/jeannerat/mygit/osra/osra-2.1.0-1/dict/superatom.txt -f sdf -w  $f2/allcompounds.sdf --embedded-format inchi -b -c -d -g -p -o $fo/struct -e
+end
