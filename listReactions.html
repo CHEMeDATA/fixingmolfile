@@ -11,11 +11,10 @@
 
   <body>
     <!-- <body bgcolor="#808080">  -->
-    <h4>Structures found in .pdf </h4>
+    <h4>Reactions found in .pdf </h4>
     <p> </p>
     <table id="target" border="1" style="border-collapse: collapse;">
       <tr>
-        <th>Page number</th>
         <th>Analysed image </th>
         <th>Image of extracted structure</th>
       </tr>
@@ -36,29 +35,25 @@
         let im;
         let imageOfStructure;
               for (let index = 0; index < 1000; index++) {
-                 f = "input/page-number/in" + (index + 1) + ".txt";
-                 response = await fetch(f);
+                im = "input/images/reaction" + (index) + ".png";
+                 response = await fetch(im);
                 if (response.status == 200) {
-                   im = "input/images/struct" + (index) + ".png";
-                   imageOfStructurepng = "input/separated_png/str" + (index + 1) + ".png";
-                   imageOfStructurepngh = "input/separated_png/strH" + (index + 1) + ".png";
-                   imageOfStructuresvg = "input/separated_svg/str" + (index + 1) + ".svg";
-                   imageOfStructuresvgh = "input/separated_svg/strH" + (index + 1) + ".svg";
-
-                // let j = result.j[index];
+                    imageOfStructuresvg = "input/separate_reactions_svg/reac" + (index + 1) + ".svg";
+                    imageOfStructurepng = "input/separate_reactions_png/reac" + (index + 1) + ".png";
+                   f = "input/separate_reactions_rxn/reac" + (index + 1) + ".rxn";
 
                 let tr = document.createElement("TR");
 
-                let tdPageNumber = document.createElement("TD");
-                tdPageNumber.setAttribute("id", "multiplet" + index);
-                tr.appendChild(tdPageNumber);
+                //let tdPageNumber = document.createElement("TD");
+                //tdPageNumber.setAttribute("id", "multiplet" + index);
+                //tr.appendChild(tdPageNumber);
 
-                let data = await response.text();
+                //let data = await response.text();
 
-                tdPageNumber.innerHTML = "empty";
-                if (data) {
-                  tdPageNumber.innerHTML = data;
-                }
+                //tdPageNumber.innerHTML = "empty";
+                //if (data) {
+                //  tdPageNumber.innerHTML = data;
+                //}
                 let tdImage = document.createElement("TD");
                 tdImage.innerHTML = "<img src='" + im + "' alt='image" + index + "' width='150'>";
                // tdImage.appendChild(img);
