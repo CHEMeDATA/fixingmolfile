@@ -5,7 +5,7 @@ Extraction of molecules from images or .pdf files is never perfect. This tool al
 
 The structures were extracted from this [pdf](input/unige_5398_attachment01.pdf).
 ## Results 
-Visualize all extracted [reactions](listReactions.html)(image rendering - NOT OK!!).
+Visualize all extracted [reactions](listReactions.html) (image rendering).
 
 [Visualize](listCompounds.html) all extracted structures (image rendering).
 
@@ -17,7 +17,7 @@ Note: The later lists do not work locally because of problems with .svg files.
 
 ## Correct errors 
 
-[Edit](index3.html) first structure.
+[Edit](displaySingleStructureForEdition.html) first structure.
 
 **Currently no serious option to save the data are proposed**
 

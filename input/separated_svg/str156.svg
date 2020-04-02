@@ -7,18 +7,18 @@ xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200p
 <g transform="translate(0,0)">
 <svg width="100" height="100" x="0" y="0" viewBox="0 0 318.304 281.536"
 font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="round">
-<line x1="168.7" y1="157.8" x2="167.9" y2="156.5" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
-<line x1="162.9" y1="162.1" x2="161.4" y2="159.6" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
-<line x1="157.1" y1="166.3" x2="155.0" y2="162.7" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
-<line x1="151.3" y1="170.5" x2="148.5" y2="165.9" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
-<line x1="145.6" y1="174.8" x2="142.1" y2="169.0" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
-<line x1="139.8" y1="179.0" x2="135.7" y2="172.1" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
 <line x1="98.0" y1="108.0" x2="81.2" y2="101.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="73.5" y1="85.2" x2="75.1" y2="80.6" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="56.8" y1="93.0" x2="52.2" y2="91.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="64.6" y1="109.7" x2="62.9" y2="114.2" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="139.8" y1="53.0" x2="139.9" y2="86.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="133.8" y1="53.0" x2="133.9" y2="86.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="175.2" y1="143.5" x2="176.8" y2="143.5" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
+<line x1="174.6" y1="136.2" x2="177.5" y2="136.2" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
+<line x1="174.1" y1="128.9" x2="178.2" y2="129.0" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
+<line x1="173.5" y1="121.7" x2="178.9" y2="121.7" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
+<line x1="172.9" y1="114.4" x2="179.7" y2="114.5" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
+<line x1="172.4" y1="107.2" x2="180.4" y2="107.2" stroke="rgb(0,0,0)"  stroke-width="1.0"/>
 <polygon points="255.328535 110.206631 211.092595 96.502890 214.111106 89.094206 " stroke-width="2.000000" fill="rgb(0,0,0)"  stroke="rgb(0,0,0)" />
 <line x1="255.3" y1="110.2" x2="272.0" y2="140.4" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="149.1" y1="219.0" x2="175.6" y2="234.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
@@ -34,13 +34,13 @@ font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="r
 <line x1="255.3" y1="110.2" x2="227.5" y2="99.4" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="227.5" y1="99.4" x2="176.4" y2="107.2" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="176.4" y1="107.2" x2="212.6" y2="92.8" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
-<line x1="97.8" y1="153.1" x2="137.7" y2="175.6" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
-<line x1="137.7" y1="175.6" x2="175.9" y2="152.5" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
-<line x1="175.9" y1="152.5" x2="176.4" y2="107.2" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
-<line x1="176.4" y1="107.2" x2="136.9" y2="86.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
-<line x1="136.9" y1="86.1" x2="98.0" y2="108.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
-<line x1="98.0" y1="108.0" x2="97.8" y2="153.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
-<line x1="105.2" y1="114.0" x2="105.0" y2="147.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="97.8" y1="153.1" x2="98.0" y2="108.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="105.0" y1="147.1" x2="105.2" y2="114.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="98.0" y1="108.0" x2="136.9" y2="86.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="136.9" y1="86.1" x2="176.4" y2="107.2" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="176.4" y1="107.2" x2="175.9" y2="152.5" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="175.9" y1="152.5" x2="137.7" y2="175.6" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="137.7" y1="175.6" x2="97.8" y2="153.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <text x="63.017588" y="105.436175" fill="rgb(127,153,153)"  stroke="rgb(127,153,153)" stroke-width="1" font-size="16" >Si</text>
 <text x="75.574210" y="76.418587" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="16" >CH</text>
 <text x="99.574210" y="80.098587" fill="rgb(102,102,102)"  stroke="rgb(102,102,102)" stroke-width="1" font-size="13" >3</text>

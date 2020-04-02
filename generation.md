@@ -42,6 +42,8 @@ These two do not work..... will need to generate image separately...
 obabel input/allreactions.rxn -o svg -O input/separate_reactions_svg/reac.svg -m -e
 obabel input/allreactions.rxn -o png -O input/separate_reactions_png/reac.png -m -e
 ```
+
+
 Note: The .png generated files are not opening on mac os...
 Note: The .svg were used to generate the results page. 
 

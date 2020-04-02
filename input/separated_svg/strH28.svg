@@ -5,11 +5,11 @@ xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200p
 <title> - Open Babel Depiction</title>
 <rect x="0" y="0" width="100" height="100" fill="white"/>
 <g transform="translate(0,0)">
-<svg width="100" height="100" x="0" y="0" viewBox="0 0 215.01 248.13"
+<svg width="100" height="100" x="0" y="0" viewBox="0 0 215.009 248.132"
 font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="round">
-<line x1="107.2" y1="85.4" x2="107.1" y2="53.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="67.5" y1="155.4" x2="51.7" y2="164.9" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="67.2" y1="108.3" x2="51.3" y2="99.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="107.2" y1="85.4" x2="107.1" y2="53.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="147.8" y1="108.5" x2="163.8" y2="99.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="147.7" y1="155.1" x2="163.5" y2="164.6" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="107.5" y1="176.7" x2="107.5" y2="195.1" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
@@ -22,12 +22,12 @@ font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="r
 <line x1="107.5" y1="176.7" x2="67.5" y2="155.4" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="67.5" y1="155.4" x2="67.2" y2="108.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
 <line x1="74.7" y1="149.3" x2="74.5" y2="114.3" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
-<text x="89.086193" y="48.000000" fill="rgb(17,127,178)"  stroke="rgb(17,127,178)" stroke-width="1" font-size="16" >Xx</text>
-<text x="34.607037" y="179.639472" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
-<text x="34.000000" y="100.598843" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
-<text x="169.010459" y="100.729413" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
-<text x="168.646352" y="179.297649" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
-<text x="101.531063" y="216.130145" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="89.085628" y="48.000000" fill="rgb(17,127,178)"  stroke="rgb(17,127,178)" stroke-width="1" font-size="16" >Xx</text>
+<text x="34.606379" y="179.639091" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="34.000000" y="100.599569" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="169.009217" y="100.730596" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="168.646609" y="179.297812" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="101.530509" y="216.131527" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
 </svg>
 </g>
 <text font-size="18.000000" fill ="black" font-family="sans-serif"
