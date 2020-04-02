@@ -43,14 +43,19 @@ obabel input/allreactions.rxn -o svg -O input/separate_reactions_svg/reac.svg -m
 obabel input/allreactions.rxn -o png -O input/separate_reactions_png/reac.png -m -e
 ```
 
-
 Note: The .png generated files are not opening on mac os...
+
 Note: The .svg were used to generate the results page. 
 
+Note: For reaction generation from allreactions.rxn does not work... see scrpt for extraction of separate .rxn files using csh script (also not working).
+
 Note: `-h` adds explicit Hydrogen.
+
 Note: `-b` black background.
+
 Note: `-e` continues after error.
 
+Scripts to attempt generation of png and svg files for [compounds](sdf2images.csh) and [reactions](rxn2images.csh).
 
 This extracts the SD tag including the page number of the molecule in the [pdf](unige_5398_attachment01.pdf) file.
 ```
