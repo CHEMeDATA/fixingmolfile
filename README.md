@@ -19,6 +19,6 @@ Note: The later lists do not work locally because of problems with .svg files.
 
 [Edit](displaySingleStructureForEdition.html) first structure.
 
-**Currently no serious option to save the data are proposed**
+**Currently no serious option to save the edited structure are proposed**
 
 
