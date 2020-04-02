@@ -60,6 +60,7 @@ Scripts to attempt generation of png and svg files for [compounds](sdf2images.cs
 This extracts the SD tag including the page number of the molecule in the [pdf](input/unige_5398_attachment01.pdf) file.
 ```
 obabel input/allcompounds.sdf -otxt --title "" --append Page -O input/page-number/in.txt
+Note: No page number in .rxn files.
 ```
 [Other tags](SDtags.md)
 
