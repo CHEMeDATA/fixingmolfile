@@ -57,7 +57,7 @@ Note: `-e` continues after error.
 
 Scripts to attempt generation of png and svg files for [compounds](sdf2images.csh) and [reactions](rxn2images.csh).
 
-This extracts the SD tag including the page number of the molecule in the [pdf](unige_5398_attachment01.pdf) file.
+This extracts the SD tag including the page number of the molecule in the [pdf](input/unige_5398_attachment01.pdf) file.
 ```
 obabel input/allcompounds.sdf -otxt --title "" --append Page -O input/page-number/in.txt
 ```
