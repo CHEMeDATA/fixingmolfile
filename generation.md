@@ -36,6 +36,9 @@ obabel input/allcompounds.sdf -o svg -O input/separated_svg/str.svg -m -e
 obabel input/allcompounds.sdf -o svg -O input/separated_svg/strH.svg -m -h -e
 obabel input/allcompounds.sdf -o png -O input/separated_png/str.png -m -e 
 obabel input/allcompounds.sdf -o png -O input/separated_png/strH.png -m -e -h
+
+obabel input/allreactions.rxn -o rxn -O input/separate_reactions_rxn/reac.rxn -m -e
+obabel input/allreactions.rxn -o svg -O input/separate_reactions_svg/reac.svg -m -e
 ```
 Note: The .png generated files are not opening on mac os...
 Note: The .svg were used to generate the results page. 
