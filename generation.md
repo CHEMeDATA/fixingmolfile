@@ -5,7 +5,7 @@ The extraction of molecules from images or .pdf files is never perfect. This too
 # Extraction of structure using OSRA 
 
 [On-line](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi) version of OSRA](https://cactus.nci.nih.gov/osra/).
-The data produced here were using using a local installation of [osra-2.1.0-1](https://sourceforge.net/projects/osra/) after some minor modification in the cpp code (a few casting causing errors).
+The data produced here were using using a local installation of [osra-2.1.0-1](https://sourceforge.net/projects/osra/) after some minor modification in the cpp code (a few casting causing errors at compilation).
 
 The data in the input folder were generated from  
 
