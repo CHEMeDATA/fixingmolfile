@@ -5,6 +5,8 @@ Extraction of molecules from images or .pdf files is never perfect. This tool al
 
 The structures were extracted from this [pdf](input/unige_5398_attachment01.pdf).
 ## Results 
+Visualize all extracted [reactions](listReactions.html)(image rendering - NOT OK!!).
+
 [Visualize](listCompounds.html) all extracted structures (image rendering).
 
 [Short list](listCompoundsShort.html) of extracted structures.
