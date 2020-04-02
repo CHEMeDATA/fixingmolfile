@@ -21,4 +21,11 @@ Note: The later lists do not work locally because of problems with .svg files.
 
 **Currently no serious option to save the edited structure are proposed**
 
+## Generation of json file
+```
+npm i 
+npm i --save-dev esm
+node -r esm ./generate_json.js
+```
+
 
