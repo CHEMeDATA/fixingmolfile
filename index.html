@@ -1,0 +1,89 @@
+<!-- showing graph using jsGraph -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <script
+      type="text/javascript"
+      language="javascript"
+      src="jsme/jsme.nocache.js"
+    ></script>
+  </head>
+
+  <body>
+    <!-- <body bgcolor="#808080">  -->
+    <h4>First 10 structures found in .pdf </h4>
+    <p> </p>
+    <table id="target" border="1" style="border-collapse: collapse;">
+      <tr>
+        <th>Page number</th>
+        <th>Analysed image </th>
+        <th>Image of extracted structure</th>
+      </tr>
+    </table>
+
+    <script>
+            const unused = {
+              width: 400,
+              height: 150,
+            };
+            fillPage();
+
+            async function fillPage() {
+              // let response = await fetch('./result.json');
+              // let result = await response.json();
+              let f;
+      let response;
+        let im;
+        let imageOfStructure;
+              for (let index = 0; index < 10; index++) {
+                 f = "input/page-number/in" + (index + 1) + ".txt";
+                 response = await fetch(f);
+                if (response.status == 200) {
+                   im = "input/images/struct" + (index) + ".png";
+                   imageOfStructurepng = "input/separated_png/str" + (index + 1) + ".png";
+                   imageOfStructurepngh = "input/separated_png/strH" + (index + 1) + ".png";
+                   imageOfStructuresvg = "input/separated_svg/str" + (index + 1) + ".svg";
+                   imageOfStructuresvgh = "input/separated_svg/strH" + (index + 1) + ".svg";
+
+                // let j = result.j[index];
+
+                let tr = document.createElement("TR");
+
+                let tdPageNumber = document.createElement("TD");
+                tdPageNumber.setAttribute("id", "multiplet" + index);
+                tr.appendChild(tdPageNumber);
+
+                let data = await response.text();
+
+                tdPageNumber.innerHTML = "empty";
+                if (data) {
+                  tdPageNumber.innerHTML = data;
+                }
+                let tdImage = document.createElement("TD");
+                tdImage.innerHTML = "<img src='" + im + "' alt='image" + index + "' width='150'>";
+               // tdImage.appendChild(img);
+                tr.appendChild(tdImage);
+
+                let tdImageOfStructure = document.createElement("TD");
+                tdImageOfStructure.setAttribute("id", "edit" + index);
+             //  tdImageOfStructure.innerHTML = "<img src='" + imageOfStructuresvg + "' alt='imageOfStructure'" + index + "' width='200'>";
+          //    tdImageOfStructure.innerHTML = '<object type="image/svg+xml" data="' + imageOfStructuresvg + '" width="800" "></object>';
+         // tdImageOfStructure.innerHTML = '<object type="image/svg+xml"  encoding="UTF-8" data="' + imageOfStructuresvg + '" width="800" "></object>';
+      //  tdImageOfStructure.innerHTML = '<object type="image/svg+xml"  data="' + imageOfStructuresvg + '" width="800" "></object>';
+         tdImageOfStructure.innerHTML = '<object type="image/svg+xml"  data="' + imageOfStructuresvg + '" width="300" "></object>';
+                tr.appendChild(tdImageOfStructure);
+
+                var place = document.getElementById("target").appendChild(tr);
+
+                //addMultiplet('multiplet' + index, step.multiplet, options);
+                // addErrorFunction( 'errorFunction' + index,          step.errorFunction,      options,      );
+
+                //  index++;
+                continue;
+              }
+
+              }
+            }
+    </script>
+  </body>
+</html>
