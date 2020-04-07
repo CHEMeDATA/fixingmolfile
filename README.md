@@ -15,6 +15,10 @@ Note: The later lists do not work locally because of problems with .svg files.
 
 **Project: click on the structure on the right to edit it.**
 
+## Extraction of text 
+(not used at this stage)
+The extraction of the text of the .pdf was done using pdfjs-dist.
+
 ## Correct errors 
 
 [Edit](displaySingleStructureForEdition.html) first structure.
