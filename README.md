@@ -21,6 +21,10 @@ Note: The later lists do not work locally because of problems with .svg files.
 
 **Currently no serious option to save the edited structure are proposed**
 
+## Link spectroscopic data to the molecule 
+
+See [CHEMeDATA-maker](https://chemedata.github.io/chemedata-maker/
+
 ## Generation of json file
 ```
 npm i 
