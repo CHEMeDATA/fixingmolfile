@@ -36,4 +36,6 @@ npm i --save-dev esm
 node -r esm ./generate_json.js
 ```
 
+## related work 
 
+[ChemDataExtractor](https://github.com/cheminfo/ChemDataExtractor)
